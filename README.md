@@ -17,6 +17,7 @@ Sebelum teks mani Kernigham tentang B dan C, tidak ada program pertama yang stan
 print() merupakan sebuah fungsi untuk mencetak output/keluaran. Cara mencetak keluaran dilakukan dengan teknik parsing (parse method), yaitu dengan meletakkan variabel atau "" pada kurung dari print tersebut. Sebagai contoh:
 
 a = kamu hebat
+
 print("adalah sebuah fakta bahwa " + a)
 
 *****************************************************************************************
